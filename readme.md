@@ -12,5 +12,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
 
-1) First, install dockN
-2) Now you can look to run docker-compose up whilst in your root directory
+1) First, run the following command in the directory you wish to create the repo:
+    git clone https://github.com/ObelusFamily/Anythink-Market-udvdb.git
+2) Next, create your own branch and add the CODEOWNERS file, then remove Carl from the file and commit your changes to git. 
+3) Now, you can create a pull request
